@@ -16,14 +16,14 @@ export default function App() {
     {
       quote:
         "Nitin brought clarity and precision when things got complicated. He listens carefully and delivers practical solutions.",
-      name: "Jane Doe, Product Lead",
+      name: "Javed Sir, Engineering Manager",
     },
   ];
 
   const funFacts = [
-    "First video game played at age 5",
-    "Photography is a side passion",
-    "Plant parent of 10+ green friends",
+    "Reading Books and Music",
+    "Travelling and Photography is a Side Passion",
+    "Playing Chess",
   ];
 
   const projects = [
