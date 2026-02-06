@@ -10,6 +10,7 @@ export default function App() {
     },
     { year: 2022, event: "Joined FabHotels as Frontend Developer" },
     { year: 2025, event: "Working on ApnaMart & freelance projects" },
+    {year: 2026, event: "Working in Trade India"}
   ];
 
   const testimonials = [
@@ -41,6 +42,11 @@ export default function App() {
       title: "ApnaMart",
       desc: "Billing system and storefront demo.",
       url: "https://apnamart.in/",
+    },
+    {
+      title: "Tradeindia",
+      desc: "It is a service based company covering manufactures, exporters that covers MSMEs for business",
+      url: "https:/tradeindia.com",
     },
   ];
 
